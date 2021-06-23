@@ -24,34 +24,17 @@ cd android
 npm i
 ```
 
-Or,
-
-For dependencies for iOS tests, run following command in project's base directory :
-
-```sh
-cd ios
-npm i
-```
-
 ## Getting Started
 
 Getting Started with Appium tests using WebdriverIO on BrowserStack couldn't be easier!
 
 ### Run first test:
-  - Test script is available in `run-first-test` directory under [Android examples](./android) or [iOS examples](./ios)
+  - Test script is available in `run-first-test` directory under [Android examples](./android) 
   - Follow the steps outlined in the documentation - [Get Started with your first test on App Automate](https://www.browserstack.com/docs/app-automate/appium/getting-started/nodejs/webdriverio)
 
-### Speed up test execution with parallel testing :
-
-- Test script is available in  `run-parallel-test` directory under [Android examples](./android) or [iOS examples](./ios)
-- Follow the steps outlined in the documentation - [Get Started with parallel testing on App Automate](https://www.browserstack.com/docs/app-automate/appium/getting-started/nodejs/webdriverio/parallelize-tests)
-
-### Use Local testing for apps that access resources hosted in development or testing environments :
-
-- Test script is available in `run-local-test` directory under [Android examples](./android) or [iOS examples](./ios)
-- Follow the steps outlined in the documentation - [Get Started with Local testing on App Automate](https://www.browserstack.com/docs/app-automate/appium/getting-started/nodejs/webdriverio/local-testing)
-
 **Note**: For other test frameworks supported by App-Automate refer our [Developer documentation](https://www.browserstack.com/docs/)
+
+
 
 ## Getting Help
 
